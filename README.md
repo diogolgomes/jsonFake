@@ -1,0 +1,2 @@
+# jsonFake
+simula uma API
