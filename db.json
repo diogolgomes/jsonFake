@@ -1,0 +1,639 @@
+{
+	"beneficiarios": [
+		{
+			"documento": "11000407810",
+			"falecido": false,
+			"grau": 1,
+			"nome": "KLEVER LAIRANA MULLER",
+			"participacao": 0
+		},
+		{
+			"documento": "24270156520",
+			"falecido": false,
+			"grau": 1,
+			"nome": "MAURO ROCHA",
+			"participacao": 0
+		}
+	],
+	"beneficiariosJunta": [
+		{
+			"documento": "11000407810",
+			"falecido": false,
+			"grau": 1,
+			"nome": "KLEVER LAIRANA MULLER",
+			"participacao": 0
+		},
+		{
+			"documento": "24270156520",
+			"falecido": false,
+			"grau": 1,
+			"nome": "MAURO ROCHA",
+			"participacao": 0
+		}
+	],
+	"cnaePrincipal": {
+		"codigo": "6491300",
+		"descricao": "SOCIEDADES DE FOMENTO MERCANTIL  FACTORING",
+		"ramoAtividade": "BENS DE CAPITAL",
+		"setor": "SERVICOS"
+	},
+	"cnaes": [
+		{
+			"codigo": "6491300",
+			"descricao": "SOCIEDADES DE FOMENTO MERCANTIL  FACTORING"
+		}
+	],
+	"cnds": [
+		{
+			"dataEmissao": "2017-11-01T03:00:00Z",
+			"dataValidade": "2017-11-30T03:00:00Z",
+			"descricaoSituacao": "REGULAR",
+			"numeroCertificacao": "2017110101472397667149",
+			"orgaoEmissor": "FGTS"
+		},
+		{
+			"dataEmissao": "2016-12-12T03:00:00Z",
+			"dataValidade": "2017-06-10T03:00:00Z",
+			"descricaoSituacao": "REGULAR",
+			"numeroCertificacao": "9DAE 2E20 DE8D EF3C",
+			"orgaoEmissor": "PGFN"
+		},
+		{
+			"dataEmissao": "2016-08-30T03:00:00Z",
+			"dataValidade": "2017-02-25T03:00:00Z",
+			"descricaoSituacao": "CERTIDAO NEGATIVA DE DEBITOS TRABALHISTAS",
+			"numeroCertificacao": "84561617/2016",
+			"orgaoEmissor": "TST"
+		}
+	],
+	"crescimentoPorAno": [
+		{
+			"ano": 2018,
+			"percentual": -3.57
+		},
+		{
+			"ano": 2017,
+			"percentual": -4.55
+		},
+		{
+			"ano": 2016,
+			"percentual": 1.15
+		},
+		{
+			"ano": 2015,
+			"percentual": 16
+		},
+		{
+			"ano": 2014,
+			"percentual": 29.31
+		},
+		{
+			"ano": 2013,
+			"percentual": 20.83
+		},
+		{
+			"ano": 2012,
+			"percentual": 54.84
+		},
+		{
+			"ano": 2011,
+			"percentual": 63.16
+		},
+		{
+			"ano": 2010,
+			"percentual": 0
+		}
+	],
+	"detran": {
+		"totalVeiculos": 13,
+		"totalVeiculosGrupo": 13,
+		"totalVeiculosLeves": 9,
+		"totalVeiculosLevesGrupo": 9,
+		"totalVeiculosPesados": 0,
+		"totalVeiculosPesadosGrupo": 0
+	},
+	"dominios": [
+		{
+			"dataCriacao": "2001-11-17T02:00:00Z",
+			"email": "danielreichardt@hotmail.com",
+			"nome": "banpar.com.br",
+			"responsavel": "VALDIR GOMES DA SILVA"
+		}
+	],
+	"empresasColigadas": [
+		{
+			"cnae": "HOLDINGS DE INSTITUICOES NAOFINANCEIRAS",
+			"cnpj": "06067230000154",
+			"dataAbertura": "2003-12-10T03:00:00Z",
+			"municipio": "SAO PAULO",
+			"razaoSocial": "BP ADMINISTRACAO E PARTICIPACOES SA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "ATIVIDADES DE CONSULTORIA EM GESTAO EMPRESARIAL, EXCETO CONSULTORIA TECNICA ESPECIFICA",
+			"cnpj": "10224283000109",
+			"dataAbertura": "2008-07-25T03:00:00Z",
+			"municipio": "SAO PAULO",
+			"razaoSocial": "LAFOC ASSESSORIA E CONSULTORIA EMPRESARIAL LTDA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "ATIVIDADES DE CONSULTORIA EM GESTAO EMPRESARIAL, EXCETO CONSULTORIA TECNICA ESPECIFICA",
+			"cnpj": "24055805000109",
+			"dataAbertura": "2016-01-26T03:00:00Z",
+			"municipio": "SAO PAULO",
+			"razaoSocial": "THAM ASSESSORIA E CONSULTORIA EMPRESARIAL LTDA",
+			"uf": "SP"
+		}
+	],
+	"empresasSimilares": [
+		{
+			"cnae": "6438701 - BANCOS DE CAMBIO",
+			"cnpj": "11703662000144",
+			"naturezaJuridica": "2054 - SOCIEDADE ANONIMA FECHADA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "BANCO CONFIDENCE DE CAMBIO SA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "6499999 - OUTRAS ATIVIDADES DE SERVICOS FINANCEIROS NAO ESPECIFICADAS ANTERIORMENTE",
+			"cnpj": "02749520000127",
+			"naturezaJuridica": "2062 - SOCIEDADE EMPRESARIA LIMITADA",
+			"quantidadeFunc": "De 11 a 50",
+			"razaoSocial": "DPC PARTICIPACOES E EMPREENDIMENTOS LTDA",
+			"uf": "MG"
+		},
+		{
+			"cnae": "6424703 - COOPERATIVAS DE CREDITO MUTUO",
+			"cnpj": "21670187000100",
+			"naturezaJuridica": "2143 - COOPERATIVA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE BOM DESPACHO LTDA SICOOB CREDIBOM",
+			"uf": "MG"
+		},
+		{
+			"cnae": "6612603 - CORRETORAS DE CAMBIO",
+			"cnpj": "08609934000137",
+			"naturezaJuridica": "2054 - SOCIEDADE ANONIMA FECHADA",
+			"quantidadeFunc": "De 11 a 50",
+			"razaoSocial": "NOVO MUNDO CORRETORA DE CAMBIO SA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "6619399 - OUTRAS ATIVIDADES AUXILIARES DOS SERVICOS FINANCEIROS NAO ESPECIFICADAS ANTERIORMENTE",
+			"cnpj": "07899160000163",
+			"naturezaJuridica": "2062 - SOCIEDADE EMPRESARIA LIMITADA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "POUPACRED PROCESSAMENTO DE DADOS LTDA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "6550200 - PLANOS DE SAUDE",
+			"cnpj": "66477217000103",
+			"naturezaJuridica": "2143 - COOPERATIVA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "UNIMED LAVRAS COOPERATIVA DE TRABALHO MEDICO",
+			"uf": "MG"
+		},
+		{
+			"cnae": "6462000 - HOLDINGS DE INSTITUICOES NAOFINANCEIRAS",
+			"cnpj": "04029601000188",
+			"naturezaJuridica": "2054 - SOCIEDADE ANONIMA FECHADA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "ENERGEST SA",
+			"uf": "SP"
+		},
+		{
+			"cnae": "6550200 - PLANOS DE SAUDE",
+			"cnpj": "30417661000188",
+			"naturezaJuridica": "2143 - COOPERATIVA",
+			"quantidadeFunc": "De 101 a 500",
+			"razaoSocial": "UNIMED DO NORTE FLUMINENSE COOP TRABALHO MEDICO",
+			"uf": "RJ"
+		},
+		{
+			"cnae": "6550200 - PLANOS DE SAUDE",
+			"cnpj": "02774736000142",
+			"naturezaJuridica": "2240 - SOCIEDADE SIMPLES LIMITADA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "OPERADORA UNIESTE DE PLANOS DE SAUDE LTDA",
+			"uf": "RJ"
+		},
+		{
+			"cnae": "6550200 - PLANOS DE SAUDE",
+			"cnpj": "48098909000150",
+			"naturezaJuridica": "2062 - SOCIEDADE EMPRESARIA LIMITADA",
+			"quantidadeFunc": "De 51 a 100",
+			"razaoSocial": "MOGIDONTO PLANOS ODONTOLOGICOS LTDA",
+			"uf": "SP"
+		}
+	],
+	"endereco": {
+		"bairro": "VILA OLIMPIA",
+		"cep": "04547000",
+		"complemento": "ANDAR 5 CJ 52",
+		"logradouro": "RUA GOMES DE CARVALHO",
+		"municipio": "SAO PAULO",
+		"numero": "1306",
+		"uf": "SP"
+	},
+	"faturamentoPresumido": {
+		"faixaGrupo": "DE R$ 10.000.000,01 A R$ 30.000.000,00",
+		"faixaIndividual": "DE R$ 10.000.000,01 A R$ 30.000.000,00"
+	},
+	"filiais": [
+		{
+			"cnpj": "65927063000214",
+			"dataAbertura": "1992-03-17T03:00:00Z",
+			"municipio": "CAMPINAS",
+			"razaoSocial": "BANPAR FOMENTO COMERCIAL E SERVICOS LTDA",
+			"situacao": "BAIXADA",
+			"uf": "SP"
+		}
+	],
+	"fipe": {
+		"valorTotalVeiculosFrota": 242624
+	},
+	"imoveis": [
+		{
+			"areaConstruida": 145,
+			"areaTerreno": 315,
+			"bairro": "PARQUE MARIA DOMITILA",
+			"cep": "05128010",
+			"imovelId": "07841400497",
+			"logradouro": "RUA MONSENHOR CASTRO NERY",
+			"municipio": "SAO PAULO",
+			"numeroLogradouro": "285",
+			"uf": "SP",
+			"ufRegistro": "SP",
+			"valorAvaliacao": 204486
+		}
+	],
+	"info": {
+		"emailRF": "SORAIA@BANPAR.COM.BR",
+		"idadeEmpresa": 26,
+		"passivelIss": true,
+		"qsaDivergente": false
+	},
+	"inpiMarcas": [
+		{
+			"classe": "40 : 10",
+			"dataDeposito": "1991-07-02T03:00:00Z",
+			"marca": "BANPAR",
+			"numeroProcesso": "816166358"
+		},
+		{
+			"classe": "40 : 20",
+			"dataDeposito": "1994-01-18T02:00:00Z",
+			"marca": "BANPAR",
+			"numeroProcesso": "817619208"
+		},
+		{
+			"classe": "NCL(10) 36",
+			"dataDeposito": "2015-04-22T03:00:00Z",
+			"marca": "BANPAR",
+			"numeroProcesso": "909281823"
+		},
+		{
+			"classe": "NCL(10) 35",
+			"dataDeposito": "2015-04-22T03:00:00Z",
+			"marca": "BANPAR",
+			"numeroProcesso": "909281904"
+		}
+	],
+	"matriz": {
+		"empresaMatriz": true,
+		"quantidadeFilial": 0
+	},
+	"natureza": {
+		"classificacao": "PRIVADO",
+		"descricao": "SOCIEDADE EMPRESARIA LIMITADA",
+		"id": "2062"
+	},
+	"novoPat": {
+		"cpfResponsavel": "43509639871",
+		"emailResponsavel": "luma@banpar.com.br",
+		"modalidades": [
+			{
+				"cnpjForcenedor": "69034668000156",
+				"descricao": "ALIMENTACAO CONVENIO",
+				"numeroTrabBeneficiados": 1,
+				"razaoSocialForcenedor": "SODEXO PASS DO BRASIL SERVICOS E COMERCIO S A"
+			},
+			{
+				"cnpjForcenedor": "69034668000156",
+				"descricao": "REFEICOES CONVENIO",
+				"numeroTrabBeneficiados": 87,
+				"razaoSocialForcenedor": "SODEXO PASS DO BRASIL SERVICOS E COMERCIO S A"
+			}
+		],
+		"nomeResponsavel": "LUMA THIELY ALMEIDA BARRETO",
+		"numeroInscricao": "0509671",
+		"situacao": "ATIVA"
+	},
+	"potencialConsumo": {
+		"valorCapitalSocial": 9895330.96
+	},
+	"processoJudicialTotalizadores": {
+		"quantidades": [
+			{
+				"qtdAtivos": 33,
+				"qtdOutrasPartes": 189,
+				"qtdParteAtiva": 223,
+				"qtdPartePassiva": 39,
+				"qtdTotal": 451,
+				"tipo": "NUMERO DE PROCESSOS"
+			},
+			{
+				"qtdAtivos": 0,
+				"qtdOutrasPartes": 0,
+				"qtdParteAtiva": 0,
+				"qtdPartePassiva": 0,
+				"qtdTotal": 0,
+				"tipo": "CRIMINAL"
+			},
+			{
+				"qtdAtivos": 0,
+				"qtdOutrasPartes": 0,
+				"qtdParteAtiva": 0,
+				"qtdPartePassiva": 1,
+				"qtdTotal": 1,
+				"tipo": "TRIBUTARIO"
+			},
+			{
+				"qtdAtivos": 0,
+				"qtdOutrasPartes": 0,
+				"qtdParteAtiva": 0,
+				"qtdPartePassiva": 0,
+				"qtdTotal": 0,
+				"tipo": "TRABALHISTA"
+			},
+			{
+				"qtdAtivos": 0,
+				"qtdOutrasPartes": 0,
+				"qtdParteAtiva": 0,
+				"qtdPartePassiva": 0,
+				"qtdTotal": 0,
+				"tipo": "ELEITORAL"
+			},
+			{
+				"qtdAtivos": 0,
+				"qtdOutrasPartes": 0,
+				"qtdParteAtiva": 0,
+				"qtdPartePassiva": 0,
+				"qtdTotal": 0,
+				"tipo": "MILITAR"
+			},
+			{
+				"qtdAtivos": 33,
+				"qtdOutrasPartes": 189,
+				"qtdParteAtiva": 223,
+				"qtdPartePassiva": 38,
+				"qtdTotal": 450,
+				"tipo": "CIVEL / ADMINISTRATIVO"
+			}
+		],
+		"valorTotal": 1484580152.9,
+		"valorTotalAtiva": 102358794.93,
+		"valorTotalOutrasPartes": 1380873230.32,
+		"valorTotalPassiva": 1348127.65
+	},
+	"saudeTributaria": {
+		"recencia": "ACIMA DE 1 ANO"
+	},
+	"simplesNacional": {
+		"optanteSimei": false,
+		"optanteSimples": false,
+		"simplesIrregular": false
+	},
+	"situacao": {
+		"descricao": "ATIVA"
+	},
+	"socios": [
+		{
+			"documento": "24270156520",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "MAURO ROCHA",
+			"participacaoSocietaria": 0,
+			"qualificacao": "SOCIO-ADMINISTRADOR"
+		},
+		{
+			"documento": "11000407810",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "KLEVER LAIRANA MULLER",
+			"participacaoSocietaria": 0,
+			"qualificacao": "SOCIO-ADMINISTRADOR"
+		},
+		{
+			"documento": "06067230000154",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "BP ADMINISTRACAO E PARTICIPACOES SA",
+			"participacaoSocietaria": 0,
+			"qualificacao": "SOCIO"
+		}
+	],
+	"sociosJunta": [
+		{
+			"documento": "24270156520",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "MAURO ROCHA",
+			"participacaoSocietaria": 0,
+			"qualificacao": "SOCIO E ADMINISTRADOR"
+		},
+		{
+			"documento": "11000407810",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "KLEVER LAIRANA MULLER",
+			"participacaoSocietaria": 0,
+			"qualificacao": "SOCIO E ADMINISTRADOR"
+		},
+		{
+			"documento": "06067230000154",
+			"falecido": false,
+			"nivelPep": "NAO IDENTIFICADO",
+			"nome": "BP ADMINISTRACAO E PARTICIPACOES SA",
+			"participacaoSocietaria": 100,
+			"qualificacao": "SOCIO"
+		}
+	],
+	"telefones": [
+		{
+			"fonteInformacao": "PAT",
+			"numero": "1130541300"
+		},
+		{
+			"fonteInformacao": "VIVO",
+			"numero": "1138419890"
+		},
+		{
+			"fonteInformacao": "GOOGLE WEB",
+			"numero": "1130444577"
+		},
+		{
+			"fonteInformacao": "GOOGLE",
+			"numero": "1130541300"
+		}
+	],
+	"totalFuncionarios": {
+		"quantidade": 81,
+		"quantidadeGrupo": 81
+	},
+	"totalVeiculos": {
+		"acimaDezAnos": 0,
+		"ateUmAno": 0,
+		"entreCincoDezAnos": 0,
+		"entreDoisCincoAnos": 0,
+		"grupoAcimaDezAnos": 0,
+		"grupoAteUmAno": 0,
+		"grupoEntreCincoDezAnos": 0,
+		"grupoEntreDoisCincoAnos": 0
+	},
+	"veiculos": [
+		{
+			"anoFabricacao": "1992",
+			"classificacao": "LEVE",
+			"combustivel": "GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "VW/KOMBI",
+			"placa": "BFJ8689",
+			"renavam": "00604647433",
+			"tipo": "CAMIONETA",
+			"uf": "SP",
+			"valorFipe": 0
+		},
+		{
+			"anoFabricacao": "2016",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X TOYOTA/ETIOS HB X",
+			"placa": "FDC1942",
+			"renavam": "01079292770",
+			"uf": "SP",
+			"valorFipe": 0
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"combustivel": "ALCOOL GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA ETIOS HB X",
+			"placa": "FGH3369",
+			"renavam": "00519768299",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 28036
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"combustivel": "ALCOOL GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X",
+			"placa": "FHK6041",
+			"renavam": "00511479050",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 28036
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"combustivel": "ALCOOL GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X",
+			"placa": "FHK6063",
+			"renavam": "00511450877",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 28036
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"combustivel": "ALCOOL GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X",
+			"placa": "FHK6065",
+			"renavam": "00511449895",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 28036
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"combustivel": "ALCOOL GASOLINA",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA ETIOS HB X",
+			"placa": "FHK6069",
+			"renavam": "00524834830",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 28036
+		},
+		{
+			"anoFabricacao": "2014",
+			"classificacao": "LEVE",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA ETIOS HB X",
+			"placa": "FQM2836",
+			"renavam": "01003630127",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 30823
+		},
+		{
+			"anoFabricacao": "2014",
+			"classificacao": "LEVE",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA ETIOS HB X",
+			"placa": "FTP5402",
+			"renavam": "00999553186",
+			"tipo": "AUTOMOVEL",
+			"uf": "SP",
+			"valorFipe": 30823
+		},
+		{
+			"anoFabricacao": "2015",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X TOYOTA/ETIOS HB X",
+			"placa": "FUU0228",
+			"renavam": "01059698690",
+			"uf": "SP",
+			"valorFipe": 0
+		},
+		{
+			"anoFabricacao": "2013",
+			"classificacao": "LEVE",
+			"constaAntt": false,
+			"marcaModelo": "I/VW AMAROK CD 4X4 HIGH",
+			"placa": "FYC1977",
+			"renavam": "00588843873",
+			"tipo": "CAMINHONETE",
+			"uf": "SP",
+			"valorFipe": 0
+		},
+		{
+			"anoFabricacao": "2016",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA/ETIOS HB X TOYOTA/ETIOS HB X",
+			"placa": "FYW4713",
+			"renavam": "01079737933",
+			"uf": "SP",
+			"valorFipe": 0
+		},
+		{
+			"anoFabricacao": "2016",
+			"constaAntt": false,
+			"marcaModelo": "TOYOTA ETIOS HB X",
+			"placa": "FZU8537",
+			"renavam": "01080451983",
+			"uf": "SP",
+			"valorFipe": 40798
+		}
+	]
+}
