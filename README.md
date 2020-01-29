@@ -24,4 +24,10 @@ Este serviço é limitado a:
 
 É possivel executar um servidor local 
 
+[![Nodejs][nodejs-image]][nodejs-url]
+
 <code>npm install -g json-server</code>
+
+Acessar a pasta ende o aquivo db.json esta localizado
+
+<code>json-server --watch db.json</code>
